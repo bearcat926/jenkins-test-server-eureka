@@ -4,7 +4,7 @@ server:
 eureka:
   instance:
     #Eureka服务端的实例名称
-    hostname: 127.0.0.1
+    hostname: 39.96.30.7
   client:
     #是否向注册中心注册自己
     register-with-eureka: false
